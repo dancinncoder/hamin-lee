@@ -32,8 +32,8 @@ export const translations = {
     "J'ai commencé mon parcours dans le marketing digital, passant deux ans au sein d'entreprises internationales américaines et françaises à concevoir des campagnes et des pages d'atterrissage. Pour comprendre en profondeur comment les produits sont construits, je suis devenue ingénieure frontend, développant des applications web et mobiles entre Londres et Séoul. C'est quelque part entre la rédaction de contenu et l'écriture de code que j'ai découvert ce que je voulais vraiment bâtir : des produits qui font sens, tant pour ceux qui les créent que pour ceux qui les utilisent.",
   ],
   aboutBody2: [
-    "That’s the lens I bring as a Technical Product Owner.",
-    "C'est précisément cette vision que j'apporte en tant que Technical Product Owner.",
+    "That’s the lens I bring as a Product Manager.",
+    "C'est précisément cette vision que j'apporte en tant que Product Manager.",
   ],
   feLabel: ["02 — FRONTEND ENGINEERING", "02 — DÉVELOPPEMENT FRONTEND"],
   feHeading: [
@@ -102,8 +102,8 @@ export const translations = {
   contactLabel: ["05 — CONTACT", "05 — CONTACT"],
   contactHeading: ["Let's talk product.", "Parlons produit."],
   contactBody: [
-    "Open to Technical Product Owner roles and conversations about product, engineering, or both.",
-    "Ouvert aux postes de Technical Product Owner et aux échanges sur le produit, l'ingénierie, ou les deux.",
+    "Open to Product Manager roles and conversations about product, engineering, or both.",
+    "Ouvert aux postes de Product Manage et aux échanges sur le produit, l'ingénierie, ou les deux.",
   ],
   footer: [
     "© 2026 Hamin Lee. Designed & built by Hamin Lee.",

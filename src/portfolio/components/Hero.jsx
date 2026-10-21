@@ -29,7 +29,7 @@ export default function Hero() {
           {displayedName}
           <span className="cursor">&nbsp;</span>
         </h1>
-        <h2>Technical Product Owner</h2>
+        <h2>Product Manager</h2>
         <p className={taglineVisible ? "show" : ""}>{t("heroTagline")}</p>
         <div className="stamp-badge mono">T.P.O.</div>
         <div className="scroll-cue">

@@ -18,10 +18,10 @@ function Popup({ onClose }) {
 
         <h3>Hello ! 👋</h3>
         <p>
-          I'm actively seeking a Technical Product Owner Internship in Paris
-          -starting July 2027. If you’re looking for a driven team player to
-          scale your product together, or just want to chat about product
-          growth, please feel free to reach out below!
+          I'm actively seeking a Product Manager Internship in Paris -starting
+          July 2027. If you’re looking for a driven team player to scale your
+          product together, or just want to chat about product growth, please
+          feel free to reach out below!
         </p>
 
         <div className="popup-contact-button">
