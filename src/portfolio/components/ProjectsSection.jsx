@@ -10,6 +10,20 @@ export default function ProjectsSection() {
       <Reveal as="h3">{t("projHeading")}</Reveal>
       <Reveal className="projects">
         <div className="proj-card">
+          <a href="" target="_blank" rel="noopener noreferrer">
+            <span className="proj-tag mono">{t("proj3Tag")}</span>
+            <h4>University Data-Silo RAG Chatbot</h4>
+            <p>{t("proj3Body")}</p>
+          </a>
+        </div>
+        <div className="proj-card">
+          <a href="" target="_blank" rel="noopener noreferrer">
+            <span className="proj-tag mono">{t("proj4Tag")}</span>
+            <h4>Digital Transformation Strategy Analysis: BlaBlaCar </h4>
+            <p>{t("proj4Body")}</p>
+          </a>
+        </div>
+        <div className="proj-card">
           <a
             href="https://tubetime-ebon.vercel.app/"
             target="_blank"

@@ -86,6 +86,22 @@ export const translations = {
     "Built from scratch, shipped for real.",
     "Conçus de zéro, lancés pour de vrai.",
   ],
+  proj4Tag: [
+    "ANALYSIS · DX · BUSINESS MODEL",
+    "PHASE INITIALE · DÉCOUVERTE MUSICALE",
+  ],
+  proj4Body: [
+    "Analyzed BlaBlaCar's asset-light digital business model to evaluate how a carpooling platform achieves market defensibility without owning physical vehicles.",
+    "Analyse du modèle d'entreprise numérique asset-light de BlaBlaCar afin d'évaluer comment une plateforme de covoiturage parvient à s'assurer une position défendable sur le marché sans posséder de véhicules physiques.",
+  ],
+  proj3Tag: [
+    "WORKFLOW AUTOMATION · n8n · AI-AGENT",
+    "AUTOMATISATION DES FLUX  · n8n · AI-AGENT",
+  ],
+  proj3Body: [
+    "Built an AI-powered RAG Telegram chatbot to eliminate university data silos and streamline student-admin communication.",
+    "Développement d'un chatbot Telegram propulsé par l'IA et le RAG pour éliminer les silos de données universitaires et fluidifier la communication entre étudiants et administration.",
+  ],
   proj1Tag: ["WEB APP · BUILT IN THE UK", "WEB APP · CONÇU AU ROYAUME-UNI"],
   proj1Body: [
     "A web app I designed and built while living in London — my first real product shipped solo, end to end.",
