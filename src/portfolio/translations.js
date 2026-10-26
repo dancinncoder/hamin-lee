@@ -86,10 +86,7 @@ export const translations = {
     "Built from scratch, shipped for real.",
     "Conçus de zéro, lancés pour de vrai.",
   ],
-  proj4Tag: [
-    "ANALYSIS · DX · BUSINESS MODEL",
-    "PHASE INITIALE · DÉCOUVERTE MUSICALE",
-  ],
+  proj4Tag: ["ANALYSIS · DX · BUSINESS MODEL", "ANALYSE · DX · BUSINESS MODEL"],
   proj4Body: [
     "Analyzed BlaBlaCar's asset-light digital business model to evaluate how a carpooling platform achieves market defensibility without owning physical vehicles.",
     "Analyse du modèle d'entreprise numérique asset-light de BlaBlaCar afin d'évaluer comment une plateforme de covoiturage parvient à s'assurer une position défendable sur le marché sans posséder de véhicules physiques.",
